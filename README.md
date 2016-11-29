@@ -1,2 +1,2 @@
 # CVUT_MMTA
-school stuff
+school
